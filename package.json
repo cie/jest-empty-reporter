@@ -1,0 +1,12 @@
+{
+  "name": "jest-empty-reporter",
+  "version": "1.0.0",
+  "description": "A Jest reporter that does nothing",
+  "main": "index.js",
+  "repository": "https://github.com/cie/jest-empty-reporter.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
